@@ -3,78 +3,78 @@ This project aims to group and organize concepts and technologies that I intend 
 
 <sub>Inspired by the [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)</sub>
 
-[Roadmap](./assets/my-developer-roadmap-2020.png)
+![Roadmap](./assets/my-developer-roadmap-2020.png)
 
 ## Front End Thread
 
-1.  HTML
+1.  <b>HTML</b>
     - Semantic HTML
     - SEO
     - Conventions & Best Pratices
     - DOM
-1.  CSS
+1.  <b>CSS</b>
     - Media Queries
     - Grid System
     - CSS Architecture
     - CSS Preprocessor
-1.  JavaScript
+1.  <b>JavaScript</b>
     - Fundamentals
     - DOM Manipulation
     - Fetch API \ AJAX (XRH)
     - ES6+ & Modular JavaScript
-1.  Version Control System
+1.  <b>Version Control System</b>
     - Fundamentals
     - Branching Model
     - Semantic Versioning
-1.  Web Security
+1.  <b>Web Security</b>
     - HTTPS
     - Content Security Policy
     - Cors
     - OWASP Security Risks
-1.  Package Manager
+1.  <b>Package Manager</b>
     - npm
     - yarn
     - Private Packages
-1.  Build Tools
+1.  <b>Build Tools</b>
     - Lint & Formaters
     - Tasks Runners
     - Module Bundlers
-1.  Modern CSS
+1.  <b>Modern CSS</b>
     - Styled Components
     - CSS Module
     - Styled JSX
-1.  Web Components
+1.  <b>Web Components</b>
     - HTML Templates
     - Custom Elements
     - Shadow DOM
-1.  Framework & Libraries
+1.  <b>Framework & Libraries</b>
     - Angular
     - React
     - Lit Element
     - Polymer
-1.  Tests
+1.  <b>Tests</b>
     - Tests Concepts
     - JEST
     - Cypress
-1.  Type Checkers
+1.  <b>Type Checkers</b>
     - Typescript
     - Flow
-1.  Progressive Web APP
+1.  <b>Progressive Web APP</b>
     - Web APIs
     - PRPL Pattern
     - RAIL Model
     - Performance Metrics
-1.  Server Side Rendering (SSR)
-1.  GraphQL
+1.  <b>Server Side Rendering (SSR)</b>
+1.  <b>GraphQL</b>
     - Apollo
     - Relay Modern
-1.  Static Site Generators
+1.  <b>Static Site Generators</b>
     - Next.js
     - GatsbyJS
-1.  Mobile Applications
+1.  <b>Mobile Applications</b>
     - React Native
     - Flutter
-1.  Design System
+1.  <b>Design System</b>
 
 ## Back End Thread
 <sub>coming soon</sub>
