@@ -77,7 +77,43 @@ This project aims to group and organize concepts and technologies that I intend 
 1.  <b>Design System</b>
 
 ## Back End Thread
-<sub>coming soon</sub>
+1.  <b>OS & General Knowledge</b>
+    - Proccess Management
+    - Thread & Concurrency
+    - Basic Network Concepts
+1.  <b>JS Server Side</b>
+    - NodeJS
+    - Event Loop
+    - Tooling
+1.  <b>Learn About API</b>
+    - JSON API
+    - REST
+    - SOAP
+    - HATEOAS
+    - Open API Spec & Swager
+1.  <b>Authentication</b>
+    - OAUTH
+    - Basic Authentication
+    - Token Authentication
+    - JWT
+1.  <b>Authentication</b>
+    - OAUTH
+    - Basic Authentication
+    - Token Authentication
+    - JWT    
+1.  <b>Caching</b>
+1.  <b>Testing</b>
+1.  <b>CI \ CD Fundamentals</b>
+1.  <b>Message Brokes</b>
+    - RabbitMQ
+    - Kafika
+1.  <b>Web Sockets</b>
+1.  <b>Scalling Up</b>
+    - Horizontal & Vertical Scale
+    - Mitigation Strategies
+    - Instrumentation
+    - Telemetry
+    - Monitoring
 
 ## Software Engineering Thread
 <sub>coming soon</sub>
