@@ -3,7 +3,7 @@ This project aims to group and organize concepts and technologies that I intend 
 
 <sub>Inspired by the [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)</sub>
 
-![Roadmap](./assets/my-developer-roadmap-2020.png)
+[Roadmap](./assets/my-developer-roadmap-2020.png)
 
 ## Front End Thread
 
@@ -116,4 +116,19 @@ This project aims to group and organize concepts and technologies that I intend 
     - Monitoring
 
 ## Software Engineering Thread
-<sub>coming soon</sub>
+1. <b>Design Patterns & Development Principles</b>
+    - SOLID Principles
+    - KISS Principles
+    - DRY Principles
+    - Clean Code
+    - GOF Patterns
+    - TDD
+    - DDD    
+1. <b>Architectural Patterns</b>
+    - Monolithic APP
+    - SOA
+    - Microservices
+    - Serveless
+1. <b>Development Methodologies</b>
+    - SCRUM
+    - Lean
